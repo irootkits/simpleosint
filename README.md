@@ -1,1 +1,2 @@
 # simpleosint
+t.me/lebeobot
